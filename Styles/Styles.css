@@ -1,6 +1,12 @@
 body{
     background: black;
 }
+h1{
+    color: white;
+    position: absolute;
+    bottom: 100%;
+    left: 35%;
+}
 main {
     width: fit-content;
     height: fit-content;
